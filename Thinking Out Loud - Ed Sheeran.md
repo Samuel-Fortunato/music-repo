@@ -1,8 +1,59 @@
 ---
 youTubeId: _oRv_XgXpAE
+
+chords:
+    D:
+        m1
+        m2
+        n3,0
+        n4,2
+        n5,3
+        m6
+    
+    D/F#:
+        n1,2
+        m2
+        m3
+        n4,2
+        n5,3
+        m6
+    
+    G:
+        n1,3
+        m2
+        m3
+        n4,0
+        n5,3
+        m6
+    
+    A:
+        m1
+        n2,0
+        m3
+        n4,2
+        n5,2
+        m6
+        
+    Em:
+        n1,0
+        m2
+        m3
+        n4,0
+        n5,0
+        m6
+        
+    Bm:
+        m1
+        n2,2
+        m3
+        n4,4
+        n5,3
+        m6
 ---
 
 # Thinking Out Loud - Ed Sheeran
+
+**Key\:** *D Major*
 
 ## Verse 1
 c1: D        D/F#                                  G             A
@@ -16,6 +67,8 @@ l1:       Will your mouth still remember the taste of my love
 
 c1: D     D/F#                        G      A
 l1:     Will your eyes still smile from your cheeks
+
+<br/>
 
 c1:             D   D/F#          G   A          D  D/F#   G A
 l1: And darling I will be loving you till we're 70
@@ -36,7 +89,7 @@ l1: Maybe just the touch of a hand
 c1:      Em                           A          Bm
 l1: Well me, I fall in love with you every single day 
 
-c1:     Em                      A
+c1:     Em                      A7
 l1: And I just wanna tell you I am
 
 c1:             D       D/F#
