@@ -143,7 +143,7 @@ l1: And maybe it's all part of a plan
 c1:       Em                      A     Bm
 l1: Well I'll just keep on making the same mistakes
 
-c1: Em                    A
+c1: Em                    A7
 l1: Hoping that you'll understand
 
 c1: D              D/F#
